@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChallengeNo3_android</string>
+    <string name="question_text_view">Your name is Maimoona </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Your answer is Correct  ^_^ </string>
+    <string name="incorrect_toast">Your answer is Incorrect ^~^</string>
+
+    <string name="singapore">Singapore officially the Republic of Singapore,
+        is a sovereign island city-state in maritime Southeast Asia.
+        It lies about one degree of latitude (137 kilometres or 85 miles) north of the equator,
+        off the southern tip of the Malay Peninsula. </string>
+</resources>
